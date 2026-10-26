@@ -30,7 +30,7 @@ This is a project I built to practice JavaScript logic and working with the page
 ## How to Use
 
 1. Download or clone the project.
-2. Open `ttt.html` in your browser (or use the Live Server extension in VS Code).
+2. Open `index.html` in your browser (or use the Live Server extension in VS Code).
 3. Player X clicks a square to go first.
 4. Player O clicks a square, and keep taking turns.
 5. To play again, refresh the page.
