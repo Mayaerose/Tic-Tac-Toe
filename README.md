@@ -52,7 +52,7 @@ This is a project I built to practice JavaScript logic and working with the page
 - How to use a ternary (`? :`) to switch turns
 - How to lay out a grid with floats and a clearfix in CSS
 
-VIEW APP HERE: https://tic-tac-toe-9204.onrender.com/
+VIEW APP HERE: https://tic-tac-toe-9204.onrender.com
 
 ## Author
 
